@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi15-vamne&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi15-vamne" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushi15-vamne" alt="ayushi15-vamne" /></a> </p>
+- 🎓 I graduated in 2021 with a CGPA of 9.04 from Technocrats Institute of Technology, Excellence, Bhopal, MP (B.Tech, CSE).
 
 - 💬 Ask me about **Ask me about React.js, Next.js, Node, Express and MongoDB.**
 
